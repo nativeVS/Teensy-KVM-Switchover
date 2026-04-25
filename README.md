@@ -12,16 +12,16 @@ See updates below for additions and changes.
 [Teensy Loader](https://www.pjrc.com/teensy/loader.html)
 Allows you to quickly upload the following hex files, compiled with all the default settings and pinouts as can be found in the source sketch (or below).
 
-[Teensy 4.0 Adder](https://github.com/nativeVS/Teensy-KVM-Switchover/releases/download/rel1/Teensy4.0_Adder.hex)
+[Teensy 4.0 Adder](https://github.com/nativeVS/Teensy-KVM-Switchover/releases/download/V1.1/Teensy4.0_Adder.hex)
 Use this hex file if you are using a Teensy 4.0 to connect to any Adder KVM switch that supports hot keys (such as XDIP) (```Ctrl``` + ```Alt``` + ```{num}```)
 
-[Teensy 4.1 Adder](https://github.com/nativeVS/Teensy-KVM-Switchover/releases/download/rel1/Teensy4.1_Adder.hex)
+[Teensy 4.1 Adder](https://github.com/nativeVS/Teensy-KVM-Switchover/releases/download/V1.1/Teensy4.1_Adder.hex)
 As above but for Teensy 4.1
 
-[Teensy 4.0 Startech](https://github.com/nativeVS/Teensy-KVM-Switchover/releases/download/rel1/Teensy4.0_Startech.hex)
+[Teensy 4.0 Startech](https://github.com/nativeVS/Teensy-KVM-Switchover/releases/download/V1.1/Teensy4.0_Startech.hex)
 Use this hex file if you are using a Teensy 4.0 to connect to any Startech KVM switch that supports hot keys (```Ctrl``` ```Ctrl``` ```{num}```)
 
-[Teensy 4.1 Startech](https://github.com/nativeVS/Teensy-KVM-Switchover/releases/download/rel1/Teensy4.1_Startech.hex)
+[Teensy 4.1 Startech](https://github.com/nativeVS/Teensy-KVM-Switchover/releases/download/V1.1/Teensy4.1_Startech.hex)
 As above but for Teensy 4.1
 
 ## Quick Getting Started
